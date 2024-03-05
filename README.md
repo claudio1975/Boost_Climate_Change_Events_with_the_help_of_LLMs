@@ -5,4 +5,4 @@
 
 
 ### Target Variables
-![](images/injuries_direct.png)
+![](images/injuries_direct.png) ![](images/whole_injuries.png)
