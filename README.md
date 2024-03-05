@@ -10,6 +10,15 @@
 ![](images/damage_property.png) ![](images/whole_damage.png)
 
 
-### Text Features
+### Words from Text Features
 ![](images/unigram_episode.png) ![](images/bigram_episode.png)
 ![](images/unigram_event.png) ![](images/bigram_event.png)
+
+
+### Wordcloud from Text Features
+![](images/wordcloud_episode.png) 
+![](images/wordcloud_event.png) 
+
+### Sentiment Anaysis with GenAI
+![](images/sentiment_analysis.png) 
+
