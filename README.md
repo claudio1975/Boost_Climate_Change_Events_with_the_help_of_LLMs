@@ -5,7 +5,7 @@ for mitigating their consequences and protecting vulnerable communities.
 
 The research has been focused on the flood event type from the US storm events database with data provided by the National Weather Service (NWS) and containing statistics on deaths, injuries and damage estimates. 
 
-By leveraging ChatGPT, the aim has been to retrieve features from narrative data related to climate events, and specifically, have been employed zero-shot text classification and embeddings techniques used as the data augmentation. 
+By leveraging ChatGPT, the aim has been to retrieve features from narrative data related to climate events, and specifically, have been employed zero-shot text classification and embeddings techniques used as data augmentation. 
 
 To forecast deaths, injuries, and damages have been compared the performance of the baseline Naive method with several Machine Learning models including Generalized Linear Models (GLM), LightGBM, and Neural Networks. 
 
