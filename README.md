@@ -1,4 +1,14 @@
-# Boost Climate Risk Modelling with the help of LLMs
+# Boost Climate Risk Modelling with the help of Large Language Models
+
+Climate change poses a significant threat to global ecosystems and human societies. The resulting effects include extreme weather events, rising sea levels, and disruptions to ecosystems. Predicting the occurrence and impacts of these events is crucial 
+for mitigating their consequences and protecting vulnerable communities.
+
+The research has been focused on the flood event type from the US storm events database with data provided by the National Weather Service (NWS) and containing statistics on deaths, injuries and damage estimates. 
+
+By leveraging ChatGPT, the aim has been to retrieve features from narrative data related to climate events, and specifically, have been employed zero-shot text classification and embeddings techniques used as the data augmentation. 
+
+To forecast deaths, injuries, and damages have been compared the performance of the baseline Naive method with several Machine Learning models including Generalized Linear Models (GLM), LightGBM, and Neural Networks. 
+
 
 
 
