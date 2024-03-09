@@ -1,4 +1,4 @@
-# Boost Climate Risk Modelling with the help of Large Language Models Data Augmentation
+# Boost Climate Risk Modelling with Large Language Models Data Augmentation
 
 Climate change poses a significant threat to global ecosystems and human societies. The resulting effects include extreme weather events, rising sea levels, and disruptions to ecosystems. Predicting the occurrence and impacts of these events is crucial 
 for mitigating their consequences and protecting vulnerable communities.
