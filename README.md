@@ -29,6 +29,13 @@ To forecast deaths, injuries, and damages the performance of the baseline Naive 
 ![](images/wordcloud_episode.png) 
 ![](images/wordcloud_event.png) 
 
+
 ### Sentiment Anaysis with GenAI
 ![](images/sentiment_analysis.png) 
+
+
+### Risk Class with GenAI
+![](images/risk_class.png) 
+
+
 
